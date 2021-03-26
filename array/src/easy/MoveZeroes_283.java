@@ -1,4 +1,4 @@
-package array;
+package easy;
 
 public class MoveZeroes_283 {
 
@@ -22,6 +22,8 @@ public class MoveZeroes_283 {
 
         1 <= nums.length <= 104
         -231 <= nums[i] <= 231 - 1
+
+        _____________________________________
 
         Steps:
         1) go from array and put !=0 elements to left side
